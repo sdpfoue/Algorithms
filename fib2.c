@@ -2,7 +2,7 @@
 
 
 void fib2(){
-    int n = 40;
+    int n = 45;
     long double f[n];
     f[0] = 0;
     f[1] = 1;
